@@ -184,5 +184,5 @@ int main() {
 
 ## RESULT:
 
-Thus the implementation of Playfair Substitution technique is executed successfully.
+Thus the implementation of Playfair Substitution technique has been executed successfully.
  
